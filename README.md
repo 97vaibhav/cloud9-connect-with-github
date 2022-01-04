@@ -21,6 +21,12 @@ $ ssh-keygen -t rsa
 Copy the Public Key to You GitHub Account.
 Navigate to RSA file directory and copy the public key.
 
+first ssh clone url (make remote )
+git add .
+git commit -m "message "
+
+git push --set-upstream origin master
+
 https://medium.com/sonabstudios/setting-up-github-on-aws-cloud9-with-ssh-2545c4f989ea
 
 how to remove remote 
